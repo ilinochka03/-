@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -8739590.092910511419177, 4576808.372128363698721 ], [ -8739489.157849445939064, 4576749.466573383659124 ], [ -8739488.349202688783407, 4576724.08414077013731 ] ] ] } }
+]
+}
